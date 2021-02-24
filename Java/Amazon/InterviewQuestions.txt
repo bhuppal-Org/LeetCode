@@ -2,3 +2,7 @@ Amazon Interview Questions
 **************************
 https://leetcode.com/discuss/interview-question/1079529/amazon-offer-google-offer
 https://aonecode.com/amazon-online-assessment-items-in-containers
+
+
+https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+https://aonecode.com/amazon-online-assessment-items-in-containers
